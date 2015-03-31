@@ -29,6 +29,7 @@ html, body {
 	background: #ccff99;
 	height: 76%;
 	top: 0;
+	position: fixed;
 	
 }
 
