@@ -1,0 +1,51 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.row {
+	width: 100%;
+	height:13%;
+}
+
+.one {
+	background: #e0e0e0;
+	
+}
+
+.two {
+	height: 35%;
+}
+
+.two p{
+	padding: 7%;
+	font-family: arial;
+	font-size: 1.7em;
+	margin-top: -3px;
+}
+
+.three {
+	background: #0099ff;
+}
+
+.four {
+	background: #66ffcc;
+}
+
+.five {
+	background: #e0e066;
+}
+
+.six {
+	background: #ffff00;
+}
+
+.box {
+	background: #0099ff;
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	margin-top: 15px;
+	margin-left: 20px;
+}
