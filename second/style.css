@@ -1,0 +1,42 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.parent {
+	height: 100%;
+	width: 100%;
+}
+
+.columns {
+	height: 100%;
+	width: 33.33%;
+	display: inline-block;
+	margin-right: -4px;
+	margin-bottom: -4px;
+}
+
+.one {
+	background: #3399ff;
+}
+
+.two {
+	background: #00ffcc;
+}
+
+.three {
+	background: #ccff99;
+	height: 76%;
+	top: 0;
+	
+}
+
+.four {
+	background: url(https://scontent-ord.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10897781_799960063408196_3263368622653982874_n.png?oh=83d31b9930495141ba99eb559a42b471&oe=55AEF191);
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: left;
+	height: 24%;
+	
+}
